@@ -55,5 +55,5 @@ Notes
 Detailed results and interpretations are available in the Results & Discussion document.
 
 author:
-Morteza Kouhestani
-pharmacist || data scientist in healthcare
+Morteza Kouhestani ||
+pharmacist || Healthcare Data Analyst
