@@ -1,3 +1,16 @@
+Data Source & Attribution
+This project uses the HDHI Cardiac Dataset available on Kaggle.(https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data)
+If used in academic research, please cite:
+Bollepalli, S.C. et al.
+An Optimized Machine Learning Model Accurately Predicts In-Hospital Outcomes at Admission to a Cardiac Unit.
+Diagnostics 2022, 12, 241.
+https://doi.org/10.3390/diagnostics12020241
+⚠️ Note:
+•	This dataset is intended for research and educational purposes 
+•	Commercial use requires explicit permission from the data providers 
+•	This project focuses on data analysis and does not claim ownership of the dataset.
+________________________________________
+
 Cardiac Health & Mortality Analysis (SQL Project)
 Overview
 This project analyzes cardiac hospital data to identify key drivers of mortality, hospital admissions, and clinical risk factors.
